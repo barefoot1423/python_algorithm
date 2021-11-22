@@ -1,6 +1,6 @@
 from typing import Optional
 
-from leecode.p021_merge_two_sorted_lists.ListNode import ListNode
+from leetcode.p021_merge_two_sorted_lists.ListNode import ListNode
 
 
 class Solution:
